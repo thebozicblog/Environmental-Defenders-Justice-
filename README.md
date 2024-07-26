@@ -1,5 +1,5 @@
 # Environmental-Defenders(Justice)
-Complimentary Dataset to Research Paper titled (Justice and Impunity for Violence against Environmental Defenders: A Crying Call for Critical Data) and authored by Micah Bozic (2024)
+Complimentary Dataset to Research Paper titled (Justice and Impunity for Violence against Environmental Defenders: A Call for Critically Needed Data) and authored by Micah Bozic (2024)
 
 Recommended!!! (Option)
 Access to Google Sheets version of database:
